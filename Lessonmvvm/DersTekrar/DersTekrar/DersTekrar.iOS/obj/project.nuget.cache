@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddb+91BpxsMMBlbdLoLMt05hWBnYw5l9VZ7v3x3ZMomxlrv811Lw76wn2+kyqFz1PiAeAhFcpuqL8GjR4wHdow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musta\\Desktop\\LocalRepo\\Lessonmvvm\\DersTekrar\\DersTekrar\\DersTekrar.iOS\\DersTekrar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\xamarin.essentials\\1.5.1\\xamarin.essentials.1.5.1.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\xamarin.forms\\4.5.0.396\\xamarin.forms.4.5.0.396.nupkg.sha512"
+  ],
+  "logs": []
+}

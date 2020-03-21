@@ -1,0 +1,15 @@
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\bin\Debug\netstandard2.0\DersTekrar.deps.json
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\bin\Debug\netstandard2.0\DersTekrar.dll
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\bin\Debug\netstandard2.0\ref\DersTekrar.dll
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\bin\Debug\netstandard2.0\DersTekrar.pdb
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\DersTekrar.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\Views\StudentView.xaml.g.cs
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\DersTekrar.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\DersTekrar.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\DersTekrar.AssemblyInfo.cs
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\DersTekrar.dll
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\ref\DersTekrar.dll
+C:\Users\musta\Desktop\LocalRepo\Lessonmvvm\DersTekrar\DersTekrar\DersTekrar\obj\Debug\netstandard2.0\DersTekrar.pdb
